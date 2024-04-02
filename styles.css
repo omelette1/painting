@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+body .container {
+    width: 500px;
+    height: 100px;
+    margin-top: 100px;
+    margin-bottom: 200px;
+  }
+#white-1 {
+    border: solid black;
+    border-width: 0px 5.5px 5.5px 0px;
+    min-height: 100px;
+    background: rgb(255, 255, 255);
+  }
+#blue {
+    border: solid black;
+    border-width: 5.5px 5.5px 0px 0px;
+    min-height: 100px;
+    background: rgb(0, 93, 159);
+  }
+#red {
+    border: solid black;
+    border-width: 0px 0px 0px 5.5px;
+    min-height: 100px;
+    background: rgb(220, 40, 26);
+}
+#red1 {
+    border: solid black;
+    border-width: 0px 0px 5.5px 5.5px;
+    min-height: 100px;
+    background: rgb(220, 40, 26);
+}
+#white-2 {
+    border: solid black;
+    border-width: 5.5px 5.5px 0px 5.5px;
+    min-height: 100px;
+    background: rgb(255, 255, 255);
+  }
+#white-3{
+    border: solid black;
+    border-width: 5.5px 0px 5.5px 5.5px;
+    min-height: 50px;
+    background: rgb(255, 255, 255);
+}
+#yellow{
+    border: solid black;
+    border-width: 5.5px 0px 5.5px 5.5px;
+    min-height: 50px;
+    background: rgb(255, 255, 0);
+}
